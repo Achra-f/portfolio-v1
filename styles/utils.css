@@ -29,7 +29,7 @@
   text-decoration: none;
   letter-spacing: -0.05em;
   background-color: var(--clr-rose-600);
-  color: var(--clr-light);
+  color: #f0f9ff;
   padding: 0.5em 1em;
   border-radius: 6px;
   box-shadow: 0 10px 20px rgba(219, 39, 119, 0.5),
